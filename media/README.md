@@ -28,3 +28,4 @@ Please follow the usage guidelines provided here for using StreamFX's media cont
 - The icon must not be smaller than 16px by 16px.
 - The icon must not be larger than 512px by 512px
 - The icon must be shown on top of a darker color which is clearly distinguishable from the icon. (For example: #1a1a1a)
+
